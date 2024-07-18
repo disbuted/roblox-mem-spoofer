@@ -1,2 +1,4 @@
-# roblox-mem-spoofer
-A simple memory usage spoofer written in LUA with changable variables for what you'd like to set the memory min and max usage too
+# READ ME FIRST
+- Just a simple Memory usage spoofer written in LUA that can be easily intergrated into any sort of LUA based cheat for: Da hood, PF, Crim, etc.
+
+
